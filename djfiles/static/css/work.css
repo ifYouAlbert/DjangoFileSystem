@@ -1,0 +1,26 @@
+body {
+    background: #FFFFFF;
+}
+
+aside{
+    float: left;
+    background:  #EEEEEE;
+    width: 100%;
+    padding: 2.5%;
+    color: #000000;
+    border-bottom: 20px solid #FFFFFF;
+}
+
+h1{
+    font-size: 70px;
+}
+
+p{
+    font-size: 20px;
+    margin: 1%;
+    text-align: justify;
+}
+
+.btn-warning {
+    font-size: 25px;
+}

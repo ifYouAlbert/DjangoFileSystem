@@ -1,0 +1,29 @@
+body {
+    background: #FFFFFF;
+}
+
+aside{
+    float: left;
+    background:  #EEEEEE;
+    width: 100%;
+    padding: 2.5%;
+    color: #000000;
+    border-bottom: 20px solid #FFFFFF;
+}
+
+aside ul {list-style: none}
+
+aside ul a {
+    color: #000000;
+    display: block;
+    margin-top: 20px;
+    transition: transform .6s ease;
+    text-decoration: none;
+    font-size: 25px
+}
+
+aside ul a:hover{
+    color: #0000FF;
+    text-decoration: none;
+    transform: scale(0.99)
+}
